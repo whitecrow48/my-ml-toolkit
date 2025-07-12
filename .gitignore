@@ -1,0 +1,14 @@
+# Виртуальное окружение
+venv/
+.env/
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Python байт-код и кэши
+*.pyc
+__pycache__/
+
+# IDE/Editor
+.idea/
+.vscode/
